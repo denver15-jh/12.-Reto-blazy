@@ -1,0 +1,5 @@
+/* CARGAR IMAGES A MEDIDA QUE SE REALIZA SCROLL EN LA INTERFAZ PARA MEJOR USER EXPERIENCE */
+
+var bLazy = new Blazy({
+    selector: 'img'
+});
